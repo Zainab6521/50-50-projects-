@@ -18,9 +18,9 @@ body {
   overflow: hidden;
   margin: 0;
 }
-.container {
-    border-radius: 80%;
-  text-align: center;
+.container {display: flex;
+    width: 60vw;
+    border-radius: 50%;
 }
 
 .progress-container {
